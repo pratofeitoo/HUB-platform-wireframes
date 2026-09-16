@@ -1,0 +1,10 @@
+screen_id,screen,module_id,module
+SCR-01,Executive Cockpit,MOD-01,HUB Core
+SCR-01,Executive Cockpit,MOD-02,Performance
+SCR-01,Executive Cockpit,MOD-04,Clients and Revenue
+SCR-01,Executive Cockpit,MOD-08,HUB Impact
+SCR-02,Manager Dashboard,MOD-02,Performance
+SCR-02,Manager Dashboard,MOD-01,HUB Core
+SCR-05,Alerts and Decisions,MOD-01,HUB Core
+SCR-06,HUB ROI,MOD-08,HUB Impact
+SCR-07,Data Diagnostics,MOD-01,HUB Core

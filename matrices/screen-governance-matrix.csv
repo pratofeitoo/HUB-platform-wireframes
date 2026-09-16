@@ -1,0 +1,8 @@
+screen_id,governance_rule,design_requirement
+SCR-01,GOV-06,Show source period confidence and limitations
+SCR-02,GOV-03,Limit data to manager hierarchy
+SCR-03,GOV-08,Provide contestation path
+SCR-04,GOV-09,Preserve version and approval history
+SCR-05,GOV-05,Require human decision
+SCR-06,GOV-09,Audit financial validation
+SCR-07,GOV-10,Do not expose secrets or raw sensitive payloads

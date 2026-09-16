@@ -1,0 +1,8 @@
+screen_id,screen,executive,manager,employee,rh,finance,hub_manager,data_admin
+SCR-01,Executive Cockpit,view,limited,none,view,view,view,none
+SCR-02,Manager Dashboard,none,full,none,view,none,view,none
+SCR-03,My Journey,none,none,full,policy_based,none,none,none
+SCR-04,KPI Governance,approve,propose,none,full,approve,full,view
+SCR-05,Alerts and Decisions,approve,act,own_records,people_signals,validate_value,full,none
+SCR-06,HUB ROI,view,none,none,none,full,full,view
+SCR-07,Data Diagnostics,none,none,none,none,none,view,full

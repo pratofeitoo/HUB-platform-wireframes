@@ -1,0 +1,4 @@
+[
+  {"alert_id":"demo_alt_001","rule_id":"ALT-01","title":"Queda persistente","severity":"high","status":"in_progress","value_at_risk":125000,"source":"synthetic"},
+  {"alert_id":"demo_alt_002","rule_id":"ALT-03","title":"Margem em risco","severity":"critical","status":"unassigned","value_at_risk":84000,"source":"synthetic"}
+]

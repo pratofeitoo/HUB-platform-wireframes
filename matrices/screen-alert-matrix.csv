@@ -1,0 +1,8 @@
+screen_id,alert_id,alert,priority,validation_status
+SCR-05,ALT-01,Queda persistente,high,validate_with_pilot
+SCR-05,ALT-02,Risco por ociosidade,high,validate_with_pilot
+SCR-05,ALT-03,Margem em risco,critical,validate_with_pilot
+SCR-05,ALT-04,Meta mal definida,medium,mvp
+SCR-05,ALT-05,Possivel vies,high,mvp
+SCR-05,ALT-07,Alerta sem acao,medium,validate_with_pilot
+SCR-05,ALT-08,Baixa adocao,medium,validate_with_pilot

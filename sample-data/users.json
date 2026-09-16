@@ -1,0 +1,6 @@
+[
+  {"user_id":"usr_exec_001","role":"executive","display_name":"Executivo demonstrativo","organization_id":"org_demo_001"},
+  {"user_id":"usr_mgr_001","role":"manager","display_name":"Gestor demonstrativo","organization_id":"org_demo_001"},
+  {"user_id":"usr_emp_001","role":"employee","display_name":"Colaborador demonstrativo","organization_id":"org_demo_001"},
+  {"user_id":"usr_fin_001","role":"finance","display_name":"Financeiro demonstrativo","organization_id":"org_demo_001"}
+]

@@ -1,0 +1,11 @@
+source_name: Planilha_Tecnica_Desenvolvimento_HUB
+source_kind: workbook-and-markdown-extract
+source_status: canonical-in-vault
+derived_snapshot_status: copied-verbatim
+copied_at: 2026-09-16
+files:
+  Planilha_Tecnica_Desenvolvimento_HUB.md:
+    sha256: acaee1add5bed75bd08fdbc0d1e01fa0ea737565d472a799b21d8d7ba2dd5ab8
+  Planilha_Tecnica_Desenvolvimento_HUB.xlsx:
+    sha256: baa5755162f3212c85a6b23ddb9f3e3457dd0b677a18d26e41f393703c45c990
+notes: Files were copied verbatim from the canonical vault source. The vault remains the authoritative source if the copies diverge.

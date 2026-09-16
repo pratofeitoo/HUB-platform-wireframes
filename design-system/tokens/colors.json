@@ -1,0 +1,15 @@
+{
+  "status": "provisional",
+  "semantic": {
+    "surface": "#F7F8FA",
+    "surfaceStrong": "#FFFFFF",
+    "ink": "#17202A",
+    "muted": "#65717E",
+    "accent": "#275DFF",
+    "positive": "#168A5B",
+    "warning": "#B7791F",
+    "critical": "#C0392B",
+    "border": "#DDE3EA"
+  },
+  "note": "Initial placeholder tokens; validate against HUB brand guidance before approval."
+}

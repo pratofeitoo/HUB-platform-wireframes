@@ -1,0 +1,8 @@
+route,required_role,scope,notes
+/executive,executive_or_sponsor,tenant_aggregate,Drill-down remains authorized
+/manager,manager,manager_hierarchy,No unrelated people data
+/me,employee,self,Own records and contestation
+/governance/kpis,rh_finance_admin,tenant,Approval history required
+/alerts,hub_manager_or_manager,assigned_scope,Audit all state changes
+/impact/roi,finance_or_sponsor,tenant_or_area,Separate estimated and validated value
+/data/diagnostics,data_admin_or_hub_manager,tenant,No silent errors

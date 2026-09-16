@@ -1,0 +1,7 @@
+screen_id,backlog_id,requirement,status
+SCR-02,BL-012,Painel gestor,not_started
+SCR-01,BL-013,Painel executivo,not_started
+SCR-05,BL-010,Motor de regras,not_started
+SCR-05,BL-011,Decisao e acao,not_started
+SCR-06,BL-015,ROI plataforma,not_started
+SCR-07,BL-014,Telemetria,not_started

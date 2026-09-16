@@ -1,0 +1,4 @@
+[
+  {"kpi_id":"demo_perf_001","name":"Atingimento de metas","value":0.78,"target":0.90,"status":"illustrative","source":"synthetic"},
+  {"kpi_id":"demo_hub_001","name":"Adocao ativa","value":0.62,"target":0.75,"status":"illustrative","source":"synthetic"}
+]

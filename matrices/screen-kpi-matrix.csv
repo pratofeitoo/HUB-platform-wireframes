@@ -1,0 +1,7 @@
+screen_id,screen,kpi_id,kpi,status
+SCR-01,Executive Cockpit,HUB-04,ROI da plataforma,source_reference_pending
+SCR-02,Manager Dashboard,PERF-01,Atingimento de metas,source_reference_pending
+SCR-02,Manager Dashboard,ALO-01,Utilizacao/alocacao,source_reference_pending
+SCR-05,Alerts and Decisions,HUB-02,Acao sobre alertas,source_reference_pending
+SCR-06,HUB ROI,HUB-01,Adocao ativa,source_reference_pending
+SCR-06,HUB ROI,HUB-04,ROI da plataforma,source_reference_pending

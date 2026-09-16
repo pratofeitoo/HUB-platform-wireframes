@@ -1,0 +1,9 @@
+{
+  "status": "illustrative",
+  "period": "2026-Q3",
+  "estimated_value": 120000,
+  "validated_value": null,
+  "platform_cost": 60000,
+  "validation_required": true,
+  "source": "synthetic"
+}
