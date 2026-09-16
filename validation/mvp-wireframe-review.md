@@ -29,3 +29,9 @@ Open — first review not yet conducted.
 - Mobile check at 390 px: `SCR-01` rendered with 5 KPI cards, 3 priority rows, and `scrollWidth === clientWidth` (375 px content width).
 - Interaction check: selecting `Margem em risco — Consulting` updated the selected row and explanation context; submitting synthetic review context produced `Decision recorded and audit event created.`
 - This is smoke evidence for the existing exploratory prototype only. It does not validate the new mobile documentation as implemented behavior, nor does it constitute Product, Data, RH, Finance, Security/LGPD, or pilot approval.
+
+## Flow documentation pass — 2026-09-16
+
+- Standardized eleven provisional flow specifications under `flows/` and indexed them in `planning/user-flows.md`.
+- Each flow now names the user and goal, entry point, meaningful steps, decision/error branches, permission and LGPD checks, endpoint, audit events, and validation criteria.
+- This is documentation coverage, not runtime verification. Unimplemented prototype routes and formal governance decisions remain pending.
